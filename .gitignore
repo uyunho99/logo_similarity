@@ -9,6 +9,9 @@ __pycache__/
 *.jpg
 *.png
 *.jpeg
+*.zip
+*.tar
+*.pth
 
 # C extensions
 *.so
